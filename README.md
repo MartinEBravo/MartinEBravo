@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=10&multiline=true&random=false&width=435&lines=Mart%C3%ADn+Bravo;Machine+Learning+Engineer+%7C+CEO)](https://git.io/typing-svg)
 
 <!--
 **MartinEBravo/MartinEBravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
