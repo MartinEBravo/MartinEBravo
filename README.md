@@ -3,13 +3,12 @@
 I was born Martín Bravo, citizen of Santiago de Chile.
 
 ### Languages:
-
-![Javascript](https://img.shields.io/badge/javascript-e5e500?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-e5e500?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frameworks:
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![pytorch](https://img.shields.io/badge/pytorch-Ffffff?style=for-the-badge&logo=pytorch&logoColor=orange)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![react](https://img.shields.io/badge/react-006EAD?style=for-the-badge&logo=react&logoColor=white)
 
 <!--
