@@ -9,7 +9,7 @@ I was born Martín Bravo, citizen of Santiago de Chile.
 ### Frameworks:
 ![pytorch](https://img.shields.io/badge/pytorch-Ffffff?style=for-the-badge&logo=pytorch&logoColor=orange)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![react](https://img.shields.io/badge/react-006EAD?style=for-the-badge&logo=react&logoColor=white)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 <!--
 **MartinEBravo/MartinEBravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
