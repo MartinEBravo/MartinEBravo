@@ -1,6 +1,8 @@
-# Hi! 😄
+# Hi! I'm Martín Bravo
 
-I was born Martín Bravo, citizen of Santiago de Chile.
+Machine Learning Engineer | Researcher | Entrepreneur
+
+Passionate about ML Systems, and Federated Learning. Currently working at Hopsworks AI, conducting research in Federated Learning at KTH Royal Institute of Technology, and shaping the next generation of AI-powered systems.
 
 ### Languages:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
