@@ -1,6 +1,6 @@
 # Hi! I'm Martín Bravo
 
-Machine Learning Engineer | Researcher | Entrepreneur
+Machine Learning Engineer | Researcher
 
 Passionate about ML Systems, and Federated Learning. Currently working at Hopsworks AI, conducting research in Federated Learning at KTH Royal Institute of Technology, and shaping the next generation of AI-powered systems.
 
