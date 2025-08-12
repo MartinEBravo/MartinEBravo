@@ -4,8 +4,7 @@ Machine Learning Engineer | Researcher
 
 Passionate about ML Systems, and Federated Learning. Currently working at Hopsworks AI, conducting research in Federated Learning at KTH Royal Institute of Technology, and shaping the next generation of AI-powered systems.
 
-.. image:: https://wakatime.com/share/@7e7f7f3b-86a6-4a8d-9083-b862dc596241/2a283e6d-c3ac-4c9f-a312-ea7bf59c92ae.png
-    :target: https://wakatime.com/
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@7e7f7f3b-86a6-4a8d-9083-b862dc596241/2a283e6d-c3ac-4c9f-a312-ea7bf59c92ae.png" /></a>
 
 ### Languages:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
