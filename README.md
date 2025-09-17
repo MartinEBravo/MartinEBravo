@@ -3,7 +3,8 @@
 Machine Learning Engineer | Researcher
 
 
-<figure><embed src="https://wakatime.com/share/@7e7f7f3b-86a6-4a8d-9083-b862dc596241/f42fd95b-4366-4c73-a5a9-b6ce67b44ca1.svg"></embed></figure>
+![WakaTime Stats](https://wakatime.com/share/@7e7f7f3b-86a6-4a8d-9083-b862dc596241/f42fd95b-4366-4c73-a5a9-b6ce67b44ca1.svg)
+
 
 ### Languages:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
