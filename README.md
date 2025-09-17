@@ -3,7 +3,8 @@
 Machine Learning Engineer | Researcher
 
 
-![WakaTime Stats](https://wakatime.com/share/@7e7f7f3b-86a6-4a8d-9083-b862dc596241/f42fd95b-4366-4c73-a5a9-b6ce67b44ca1.svg)
+[![WakaTime Stats](https://wakatime.com/share/@7e7f7f3b-86a6-4a8d-9083-b862dc596241/f42fd95b-4366-4c73-a5a9-b6ce67b44ca1.svg)](https://wakatime.com/share/@7e7f7f3b-86a6-4a8d-9083-b862dc596241/f42fd95b-4366-4c73-a5a9-b6ce67b44ca1.svg)
+
 
 
 ### Languages:
